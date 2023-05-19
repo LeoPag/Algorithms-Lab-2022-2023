@@ -2,18 +2,18 @@
 This project contains my solutions (C++) for the problems of the Algorithms Lab class 2022-2023. The course consists in solving algorithmic problems given in a contextual description. To solve some problems, knowledge of advanced algorithms - graduate level, is required.
 
 
-|  Week       | Title                     |  Score | Topics and Techniques                                 |
-|-------------|---------------------------|--------|-------------------------------------------------------|
-|  Week  1    | Build the Sum             | 100    | -                                              |
-|  Week  1    | Dominoes                  | 100    | -                                              |
-|  Week  1    | Even Pairs                | 100    | Partial Sums                                   |
-|  Week  1    | Even Matrices             | 100    | Partial Sums                                   |
-|  Week  2    | Beach Bars                | 100    | Sliding Window                                 |
-|  Week  2    | Burning Coins             | 100    | Dynamic Programming                            |
-|  Week  2    | Search Snippets           | 100    | Sliding Window                                 |
-|  Week  2    | Even Matrices             | 100    | Dynamic Programming                            |
-|  Week  3    | First Steps with BGL      | 100    | Dijkstra - Minimum Spanning Tree               |
-|  Week  3    | Ant Challenge             | 100    | Dijkstra - Minimum Spanning Tree               |
+|  Week   | Title                     |  Score | Topics and Techniques                          |
+|---------|---------------------------|--------|------------------------------------------------|
+|  Week  1| Build the Sum             | 100    | -                                              |
+|  Week  1| Dominoes                  | 100    | -                                              |
+|  Week  1| Even Pairs                | 100    | Partial Sums                                   |
+|  Week  1| Even Matrices             | 100    | Partial Sums                                   |
+|  Week  2| Beach Bars                | 100    | Sliding Window                                 |
+|  Week  2| Burning Coins             | 100    | Dynamic Programming                            |
+|  Week  2| Search Snippets           | 100    | Sliding Window                                 |
+|  Week  2| Even Matrices             | 100    | Dynamic Programming                            |
+|  Week  3| First Steps with BGL      | 100    | Dijkstra - Minimum Spanning Tree               |
+|  Week  3| Ant Challenge             | 100    | Dijkstra - Minimum Spanning Tree               |
 |  Week  3    | Buddy Selection           | 100    | Maximal Matching                               |
 |  Week  3    | Important Bridges         | 100    | Biconnected Components                         |
 |  Week  4    | Antenna                   | 100    | Geometry / Minimum Enclosing Circle            |
