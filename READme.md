@@ -68,5 +68,6 @@ This project contains my solutions (C++) for the problems of the Algorithms Lab 
 |  Week  13   | Evolution                 | 100    | Depth First Search / Binary Search          |
 |  Week  13   | Idefix                    | 100    | Delauney Triangulation / Connected Components / Union Find |
 |  Week  13   | Marathon                  | 100    | Delauney Triangulation / Linear Programming  |
+|  Potw  14   | Ludo Bagman               | 100    | Maximum Flow Minimum Cost         |
 
 
