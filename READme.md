@@ -52,7 +52,7 @@ This project contains my solutions (C++) for the problems of the Algorithms Lab 
 |  Potw  10   | Hand                      | 100    | Delauney Triangulation, Connected Components,Union Find            |
 |  Week  10   | DHL                       | 100    | Dynamic Programming                            |
 |  Week  10   | Clues                     | 100    | Delauney Triangulation / Connected Components / Breadth First Search / 2 Coloring|
-|  Week  10   | New York                  | 100    | Dynamic Programming / Path Compression         |
+|  Week  10   | New York                  | 100    | Dynamic Programming / Binary Lifting        |
 |  Week  10   | Fleetrace                 | 100    | Maximum Flow Minimum Cost                      |
 |  Potw  11   | Ceryneian Hind            | 100    | Maximum Flow / Maximum Weight Closure          |
 |  Week  11   | The Fighting Pits of Meereen| 100  | Dynamic Programming                            |
